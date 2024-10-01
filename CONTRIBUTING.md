@@ -67,6 +67,3 @@ If you're participating in Hacktoberfest:
 Feel free to reach out by opening an issue if you have any questions or need help navigating the project. We are more than happy to assist you.
 
 Happy coding, and thanks for contributing!
-```
-
-You can copy this content into a new file named `CONTRIBUTING.md` in your GitHub repository. Make sure to replace any placeholders, such as **`[Git-For-Geeks-3.0]`** and **`link-to-code-of-conduct`**, with the appropriate links and information.
