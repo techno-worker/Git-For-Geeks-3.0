@@ -1,6 +1,6 @@
-![Frame 2 (2)]()
+![Frame 2 (2)](https://github.com/GFGRBU/.github/blob/main/assets/gfgbanner.jpg)
 
-## Welcome to Git-For-Geeks 2024! 🚀
+## Welcome to Git-For-Geeks 3.0! 🚀
 
 ### Event Details:
 
