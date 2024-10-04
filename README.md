@@ -1,4 +1,4 @@
-![Frame 2 (2)](https://github.com/GFGRBU/.github/blob/main/assets/gfgbanner.jpg)
+![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--a0VqOvf_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4a6t7pmm323uaz9rv1rf.png)
 
 ## Welcome to Git-For-Geeks 3.0! 🚀
 
